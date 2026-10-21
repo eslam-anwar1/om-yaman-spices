@@ -1,0 +1,50 @@
+[
+  {
+    "id": "blends",
+    "name": "خلطات وتوابل مشكلة",
+    "icon": "fa-mortar-pestle",
+    "count": 30
+  },
+  {
+    "id": "whole",
+    "name": "بهارات حب وحصوية",
+    "icon": "fa-seedling",
+    "count": 25
+  },
+  {
+    "id": "ground",
+    "name": "بهارات ناعمة ومطحونة",
+    "icon": "fa-pepper-hot",
+    "count": 25
+  },
+  {
+    "id": "herbs",
+    "name": "أعشاب برية وزهورات",
+    "icon": "fa-leaf",
+    "count": 25
+  },
+  {
+    "id": "zaatar",
+    "name": "زعتر ودقة ومتبلات",
+    "icon": "fa-bowl-rice",
+    "count": 20
+  },
+  {
+    "id": "grains",
+    "name": "حبوب وبقوليات بلدية",
+    "icon": "fa-wheat-awn",
+    "count": 20
+  },
+  {
+    "id": "sweets_nuts",
+    "name": "مكسرات ولوازم حلويات",
+    "icon": "fa-cookie-bite",
+    "count": 20
+  },
+  {
+    "id": "oils_dibs",
+    "name": "زيوت ودبس وعسل",
+    "icon": "fa-bottle-droplet",
+    "count": 20
+  }
+]

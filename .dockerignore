@@ -1,0 +1,7 @@
+.git
+.gitignore
+.dockerignore
+__pycache__
+*.pyc
+generate_catalog.py
+README.md

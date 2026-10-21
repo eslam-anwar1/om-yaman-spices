@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: om-yaman-spices
+    runtime: docker
+    plan: free
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api.php?action=get_categories
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 10000
